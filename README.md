@@ -33,3 +33,16 @@ This repository uses the [MIT-0](LICENSE).
 ## Developers
 
 See our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute to this repository.
+
+## References
+
+[LangChain Documentation](https://python.langchain.com/en/latest/)
+
+[SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
+
+Sanh, V., Debut, L., Chaumond, J., & Wolf, T. (2019). DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. ArXiv, abs/1910.01108.
+
+Thakur, N., Reimers, N., Ruckl'e, A., Srivastava, A., & Gurevych, I. (2021). BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models. ArXiv, abs/2104.08663.
+
+
+
