@@ -36,6 +36,8 @@ See our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONT
 
 ## References
 
+Cohan, A., Dernoncourt, F., Kim, D. S., Bui, T., Kim, S., Chang, W., & Goharian, N. (2018, June). A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents. Proceedings of the 2018 Conference of the North AMerican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), 615–621. doi:10.18653/v1/N18-2097
+
 [LangChain Documentation](https://python.langchain.com/en/latest/)
 
 [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
