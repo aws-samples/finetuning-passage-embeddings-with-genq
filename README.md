@@ -28,7 +28,7 @@ These notebooks are designed to be run on a [SageMaker Notebook](https://docs.aw
 
 ## License
 
-This repository uses the [MIT-0](LICENSE).
+This repository uses the [MIT-0](LICENSE) license.
 
 ## Developers
 
