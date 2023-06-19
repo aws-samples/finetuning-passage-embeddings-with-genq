@@ -30,7 +30,7 @@ These notebooks are designed to be run on a [SageMaker Notebook](https://docs.aw
 
 This repository uses the [MIT-0](LICENSE) license. 
 
-Although this repository is released under the MIT-0 license, its example dataset uses the third party [PubMed summarization](https://github.com/armancohan/long-summarization) repository. The Pubmed summarization project’s licensing includes the Apache 2.0 license.
+Although this repository is released under the MIT-0 license, its example dataset uses the third party [PubMed summarization](https://github.com/armancohan/long-summarization) repository. The PubMed summarization project’s licensing includes the Apache 2.0 license.
 
 ## Developers
 
