@@ -22,7 +22,7 @@ This demonstration is broken into 3 notebooks which are designed to be completed
 2. [02-Finetune-and-Deploy-Model](02-Finetune-and-Deploy-Model.ipynb): fine-tuning the embedding model and deploying it to a Sagemaker endpoint
 3. [03-Applications-and-Evaluation](03-Applications-and-Evaluation.ipynb): comparing the fine-tuned model to a baseline and using it for RAG and extractive QA
 
-Throughout the demo, we will leverage frameworks like [LangChain](https://python.langchain.com/en/latest/) and [Hugging Face](https://huggingface.co/) to simplify and operationalize the workflow. We will also use [Amazon SageMaker](https://aws.amazon.com/sagemaker/) for fully-managed and scalable inference (batch &-time) and training.
+Throughout the demo, we will leverage frameworks like [LangChain](https://python.langchain.com/en/latest/) and [Hugging Face](https://huggingface.co/) to simplify and operationalize the workflow. We will also use [Amazon SageMaker](https://aws.amazon.com/sagemaker/) for fully-managed and scalable inference (batch & real-time) and training.
 
 These notebooks are designed to be run on a [SageMaker Notebook](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) using the `conda_pytorch_p39` kernel, which will greatly simplify configuration and initialization. 
 
